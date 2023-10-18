@@ -1,6 +1,8 @@
 site_name: Manual de Mobilitat
-theme:
-  name: readthedocs
+repo_url: https://github.com/yaknostoyok/mobilitat-manual
+docs_dir: docs
+theme: readthedocs
+
 nav:
   - Inici: index.md
   - Gestió de mobilitat: 
@@ -8,3 +10,6 @@ nav:
     - Documents de mobilitat: gestio/gestio-docs.md
   - Referències:
     - Links d'interès: refs/refs-links.md
+
+markdown_extensions:
+  - admonition
