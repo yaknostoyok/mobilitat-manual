@@ -1,17 +1,4 @@
-# Welcome to MkDocs
+# Manual de mobilitat
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Aquest manual és una iniciativa iniciada a l'Institut Pedralbes per ajudar a aquelles persones responsables de coordinar projectes de mobilitat en instituts. 
+Actualment es troba en procés de construcció i està únicament enfocat a mobilitats de formació professional (FP). 

@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Manual de Mobilitat
+theme:
+  name: readthedocs
+nav:
+  - Inici: index.md
+  - Gestió de mobilitat: 
+    - Conceptes fonamentals: gestio/gestio-conceptes.md
+    - Documents de mobilitat: gestio/gestio-docs.md
+  - Referències:
+    - Links d'interès: refs/refs-links.md
