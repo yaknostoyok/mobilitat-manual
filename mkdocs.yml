@@ -1,7 +1,7 @@
 site_name: Manual de Mobilitat
 repo_url: https://github.com/yaknostoyok/mobilitat-manual
 docs_dir: docs
-theme: readthedocs
+theme: material
 
 nav:
   - Inici: index.md

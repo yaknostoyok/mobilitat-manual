@@ -1,9 +1,9 @@
-# Links d'interès
+# ECHE
 
 Explica el procés de mobilitat (GS?) pas a pas: 
 [link](http://sepie.es/educacion-superior/carta-eche.html)
 
-[TOC]
+→ La carta ESCHE no té un mínim de participació
 
 ## Fundamental principles…	
 

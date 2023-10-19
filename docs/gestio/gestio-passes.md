@@ -2,8 +2,6 @@
 
 Una vegada concedida una beca comença el procés de gestió de les beques la centre. Podem organitzar aquest en les següents passes: 
 
-[TOC]
-
 ## 1. Informació 
 
 Obtinguda la dotació cal aclarir cóm s’utilitzarà aquesta: on serà l’estada? per quant de temps i quant d’alumnat? 

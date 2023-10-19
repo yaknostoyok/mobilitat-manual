@@ -4,8 +4,6 @@ Consorci de Barcelona
 
 Dept. d’Educació KA1 (Programa de Mobilitat FP) → Serveix per estalviar tràmits
 
-[TOC]
-
 ## Servei que ofereixen
 
 Iniciativa del Departament per millorar les iniciatives de mobilitat dels centres oferint una convocatòria anual d’ajuts per a estudiantat i professorat i projectes de cooperació internacional. 
