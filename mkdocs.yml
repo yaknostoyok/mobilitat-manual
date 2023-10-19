@@ -8,7 +8,18 @@ nav:
   - Gestió de mobilitat: 
     - Conceptes fonamentals: gestio/gestio-conceptes.md
     - Documents de mobilitat: gestio/gestio-docs.md
+    - Glossari: gestio/gestio-glossari.md
+    - Passes a seguir: gestio/gestio-passes.md
+    - Tipus d'estades: gestio/gestio-tipus.md
+  - Sol·licitud de beques:
+    - Sol·licituds pel Consorci: sollicitud/sollicitud-consorci.md
+    - Sol·licituds pel SEPIE: sollicitud/sollicitud-sepie.md
+  - Altres col·laboradors: 
+    - Discover EU: collab/collab-discover-eu.md
+    - Travoyage Malta: collab/collab-travoyage-malta.md
+    - UNISER: collab/collab-uniser.md
   - Referències:
+    - ECHE: refs/refs-eche.md
     - Links d'interès: refs/refs-links.md
 
 markdown_extensions:

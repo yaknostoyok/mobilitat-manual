@@ -1,33 +1,58 @@
 # Conceptes fonamentals
 
-[TOC]
+El marc normatiu per a qualsevol dubte de mobilitat és: Resolució EDU/93/2023 actualment (2021-2027) estem dintre del nou programa Erasmus 2021, que aporta novetats com les estades de curta durada a GS o enviar alumnat/professorat per tot el món. 
 
-## Carta ECHE
-→ La carta ESCHE no té un mínim de participació
-→ La ESCHE permet demanar beques a través del consorci o del SEPIE. 
+Tota la informació les pot trobar a la Guía Erasmus.
 
-## EQF (European Qualifications Framework)
-	Marc comú de referència per l’educació europea. Cal saber que GM=EQF4 i GS=EQF5. 
+El càrrec de coordinador de mobilitat té un complement salarial, uns 90€.
 
-## Erasmobility
-	Una plataforma de contacte entre centres i empreses més orientada a FP: https://erasmobility.eu/
+Les sol·licituts viuen en tres cursos:
 
-## eTweening
-Una plataforma de contacte entre centres i empreses, però més orientada a Primària i ESO.
+	→ En un curs es demanen.
 
-## KA (Key Actions)
-La Comissió Europea ha publicat la Guia Erasmus+2021 que dona informació sobre els objectius, les prioritats i les característiques principals del nou programa vigent Erasmus+. Trobareu informació específica sobre les noves Accions, el procés que caldrà seguir per demanar subvencions i a quins projectes es poden adreçar.
-Hi ha 3 tipus d’accions:
+	→ Al curs següent es realitzen.
 
-### KA1 Mobilitat per alumnat i personal d'Educació Escolar:
-- KA 122 SCH - projectes de curta durada
-- KA 121 SCH - acreditats
-- KA 120 SCH - noves acreditacions
+	→ Al curs següent es justifiquen.
 
-### KA2 Associacions de cooperació:
-- KA 220 ADU/ KA 220 SCH - Associacions de cooperació
-- KA 210 ADU/ KA 201 SCH - Associacions de petita escala
+Un centre de les nostres característiques hauria de moure cada curs unes 12 mobilitats de cada tipus (GM, GS, professorat). 
 
-### KA3 Polítiques educatives
-La participació dels centres en el programa està sotmesa a l’acceptació d’uns compromisos de participació que inclouen, entre altres qüestions, el disseny d’un projecte pel qual se sol·licita el programa i l’elaboració d’una memòria final.
-Els centres interessats hauran d’emplenar la sol·licitud de l’acció clau del programa Erasmus+ que sol·licita a través del portal web de l’Agència Nacional de gestió del programa que, a Espanya, és el SEPIE (Servei Espanyol per a la Internacionalització de l’Educació) en els terminis establerts a cada convocatòria. També podem fer ús d’altres serveis com el Programa de Mobilitat FP referenciat en aquest mateix document. 
+Ara mateix ens interessa fer mobilitats de pràctiques i crear una xarxa de centres i institucions estables per fer mobilitat. Cal conéixer molt als altres. 
+
+Si rebem alumnat/professorat, ens interessa que ens rebin també. 
+
+Fixem-nos en centres que fan molt bé la mobilitat, com l’Institut de Vic o l’Escola del Treball de Lleida. 
+
+
+Quan tinguem una bona xarxa de mobilitat, podem plantejar-nos fer un Acord de col·laboració amb diferents entitats que formalitze i facilite els processos. 
+
+
+El procés…
+
+KA120 → Acció d’acreditació (la que dura fins 2027).
+
+KA121 → Sol·licitut de finançament (24 mesos de duració).
+
+KA122 → Projectes de mobilitat curt termini (18 mesos de duració). 
+
+Qüestions addicionals…
+
+Per a realitzar sol·licituts Erasmus+ necessitem l’acreditació Erasmus (la tenim?) que dura fins al 2027 dintre del Nou programa Erasmus.
+
+La duració del projecte acceptat és ampliable a 24 mesos. 
+
+Beneficis a tenir en compte: projectes de llarg termini i col·laboratius. 
+
+
+La acreditación Erasmus + es para todas las movilidades, mientras uqe la carta ECHE es un requisito que se pide antes para GS. 
+
+19/10 se envía la solicitud 
+
+→ Valoración de la Agencia Nacional 
+
+→ En enero se publican los resultados (si tenemos la acreditación o no) → Febrero candidatura para KA121 (se presenta una solicitud de financiación anual)
+
+ → Junio/Julio evaluación de los proyectos y empezar a planificar dónde ir 
+ 
+ → Septiembre/Diciembre inicio de los proyectos.
+
+
